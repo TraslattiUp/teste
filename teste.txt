@@ -1,3 +1,9 @@
 inicio em dev
 
+<<<<<<< HEAD
 agora em dev 2
+=======
+agora em dev
+
+producao alterado para dev
+>>>>>>> main
